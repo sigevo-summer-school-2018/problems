@@ -23,3 +23,4 @@ thinking session. You can link as many as you want.
 * [Inside China’s Dystopian Dreams: A.I., Shame and Lots of Cameras](https://www.nytimes.com/2018/07/08/business/china-surveillance-technology.html)
 * [Reversing Japan’s demographic nosedive](https://www.japantimes.co.jp/opinion/2018/06/19/commentary/japan-commentary/reversing-japans-demographic-nosedive/)
 * [Why banning plastic straws isn't enough](https://www.cbc.ca/news/technology/banning-plastic-straws-1.4628160)
+* [A graph theory approach to natural selection](https://www.quantamagazine.org/mathematics-shows-how-to-ensure-evolution-20180626/).
