@@ -21,3 +21,4 @@ thinking session. You can link as many as you want.
 * [US schools ban Darwin from class](https://www.theguardian.com/world/2002/feb/24/usa.schools)
 * [Comparison of aircrafts: Airbus vs. Boeing](https://community.infinite-flight.com/t/airbus-vs-boeing-comprehensive-comparison/113633)
 * [Inside China’s Dystopian Dreams: A.I., Shame and Lots of Cameras](https://www.nytimes.com/2018/07/08/business/china-surveillance-technology.html)
+* [For India's Farmers, Budget 2018 Is Nothing but a Hoax](https://thewire.in/agriculture/indias-farmers-budget-2018-nothing-hoax)
