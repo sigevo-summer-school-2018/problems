@@ -25,3 +25,6 @@ thinking session. You can link as many as you want.
 * [Why banning plastic straws isn't enough](https://www.cbc.ca/news/technology/banning-plastic-straws-1.4628160)
 * [A graph theory approach to natural selection](https://www.quantamagazine.org/mathematics-shows-how-to-ensure-evolution-20180626/). It
   refers to [this paper in Communications Biology](https://www.nature.com/articles/s42003-018-0078-7).
+* [A graph theory approach to natural selection](https://www.quantamagazine.org/mathematics-shows-how-to-ensure-evolution-20180626/). It
+  refers to [this paper in Communications Biology](https://www.nature.com/articles/s42003-018-0078-7).
+* [Japan floods: At least 122 dead after heavy rain and landslides](https://edition.cnn.com/2018/07/09/asia/japan-floods-intl/index.html)
