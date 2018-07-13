@@ -14,7 +14,7 @@ describe situations that could be potentially solved.
 
 Let's link below some articles or websites that describe situations,
 and by the end of the first day we will use them for the design
-thinking session. You can link as many as you want. 
+thinking session. You can link as many as you want.
 
 # Articles to consider
 
@@ -32,3 +32,6 @@ thinking session. You can link as many as you want.
 * [For India's Farmers, Budget 2018 Is Nothing but a Hoax](https://thewire.in/agriculture/indias-farmers-budget-2018-nothing-hoax)
 * [Tropical deforestation for charcoal in Paraguay to fuel your BBQ](https://www.opendemocracy.net/toby-hill/tropical-deforestation-for-charcoal-in-paraguay-to-fuel-your-bbq)
 * [Japan working hard to douse fire ant invasion](https://www.japantimes.co.jp/news/2017/08/07/reference/japan-working-hard-douse-fire-ant-invasion/#.W0gWPNL-hdg)
+* [Content generation for video games](http://www.sciencemag.org/news/2018/05/bored-your-video-game-artificial-intelligence-could-create-new-levels-fly)
+* [Help players in eSports matches](https://venturebeat.com/2017/03/11/machine-learning-will-be-a-game-changer-for-esports/)
+* [Apply Interactive-EAs to Generative Design](https://www.autodesk.com/solutions/generative-design)
