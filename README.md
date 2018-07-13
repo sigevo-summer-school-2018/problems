@@ -1,5 +1,6 @@
 # Problems
 
+
 During the design thinking phase of a project, we have to choose a
 problem we will be working with. The problem is, in principle, any
 problem at all, anything that would be interesting you to solve if you
