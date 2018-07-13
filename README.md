@@ -30,4 +30,4 @@ thinking session. You can link as many as you want.
 * [Tiger mosquitoes capable of carrying Zika spread accross half France](https://www.telegraph.co.uk/news/2018/04/29/tiger-mosquitoes-capable-carrying-zika-spread-across-half-france/)
 * [Having a check on spread of fake news online](https://www.technologyreview.com/s/609717/can-ai-win-the-war-against-fake-news/)
 * [For India's Farmers, Budget 2018 Is Nothing but a Hoax](https://thewire.in/agriculture/indias-farmers-budget-2018-nothing-hoax)
-
+* [Tropical deforestation for charcoal in Paraguay to fuel your BBQ](https://www.opendemocracy.net/toby-hill/tropical-deforestation-for-charcoal-in-paraguay-to-fuel-your-bbq)
