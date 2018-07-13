@@ -29,3 +29,5 @@ thinking session. You can link as many as you want.
 * [Japan floods: At least 122 dead after heavy rain and landslides](https://edition.cnn.com/2018/07/09/asia/japan-floods-intl/index.html)
 * [Tiger mosquitoes capable of carrying Zika spread accross half France](https://www.telegraph.co.uk/news/2018/04/29/tiger-mosquitoes-capable-carrying-zika-spread-across-half-france/)
 * [Having a check on spread of fake news online](https://www.technologyreview.com/s/609717/can-ai-win-the-war-against-fake-news/)
+* [For India's Farmers, Budget 2018 Is Nothing but a Hoax](https://thewire.in/agriculture/indias-farmers-budget-2018-nothing-hoax)
+
